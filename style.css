@@ -52,7 +52,7 @@
     }
     .services .background-image
     {
-        background-image: url("/images/why3.jpg");
+        background-image: url("images/why3.jpg");
         background-size: cover;
         background-attachment: fixed;
     }
